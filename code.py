@@ -5,6 +5,7 @@ def trace(*args):
   print (*args)  # Comment out this line to remove debug output
   pass
 
+"""Change wording for Sentence"""
 
 modificators = ["activity", "participants"]
 modificator = input("Hi! I am here to help you find something to do. Please specify whether you want to choose by the 'activity' or 'participants': ")
